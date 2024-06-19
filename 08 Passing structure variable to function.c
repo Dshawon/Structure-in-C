@@ -19,4 +19,5 @@ int main(){
 /*
 Alternative way to initialize string,,
     strcpy(p1.name, "Shawon Hussain");
+    
 */
